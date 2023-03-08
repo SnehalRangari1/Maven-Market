@@ -11,6 +11,11 @@ Dataset contains following induvial excel (csv) Files:
 •	MavenMarket_Stores.csv
 •	MavenMarket_Transactions_1997.csv
 •	MavenMarket_Transactions_1998.csv
+
+Following is the data model of the uploaded CSV files 
+![ER Diagram](https://user-images.githubusercontent.com/112102301/223804392-e1f0de5a-76f4-480b-a576-a939ba654cb5.jpg)
+
+
 Open a new PowerBI Desktop file and perform the tasks mentioned below. Save this file as yourPRN_MavenMarket.pbix file which should be submitted on Microsoft Teams: 
 1. Check that Locale for import is set to "English (United States)" in the Regional Settings tab 
 2. Connect to the MavenMarket_Customers csv file 
