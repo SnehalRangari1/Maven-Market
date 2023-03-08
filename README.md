@@ -12,18 +12,19 @@ Dataset contains following induvial excel (csv) Files:
 •	MavenMarket_Transactions_1997.csv
 •	MavenMarket_Transactions_1998.csv
 
-Following is the data model of the uploaded CSV files 
+# Following is the data model view of the uploaded CSV files 
 ![ER Diagram](https://user-images.githubusercontent.com/112102301/223804392-e1f0de5a-76f4-480b-a576-a939ba654cb5.jpg)
-
+# Visuals
+## Topline Performence
 ![Topline Performence](https://user-images.githubusercontent.com/112102301/223808512-1552181e-1f56-47b6-813f-f07163634152.jpg)
-
+## Stores
 ![Stores](https://user-images.githubusercontent.com/112102301/223810224-7a59fa24-f773-4fa6-8b57-8d5f4a0fd369.jpg)
-
+## Transactions
 ![Transactions](https://user-images.githubusercontent.com/112102301/223810423-a09f307c-4e11-4682-8e1c-ff8005d21d71.jpg)
-
+## Customers
 ![Customers](https://user-images.githubusercontent.com/112102301/223810608-3d0a7738-ecde-4801-a466-63b5dfa72347.jpg)
 
-
+# Steps About Calculated Columns and Dax Measures
 Open a new PowerBI Desktop file and perform the tasks mentioned below. Save this file as yourPRN_MavenMarket.pbix file which should be submitted on Microsoft Teams: 
 1. Check that Locale for import is set to "English (United States)" in the Regional Settings tab 
 2. Connect to the MavenMarket_Customers csv file 
