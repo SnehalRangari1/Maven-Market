@@ -17,6 +17,7 @@ Following is the data model of the uploaded CSV files
 
 ![Topline Performence](https://user-images.githubusercontent.com/112102301/223807640-94bdd951-0a2c-42ef-87f0-e96dd60ea9cb.jpg)
 
+![Topline Performence](https://user-images.githubusercontent.com/112102301/223808512-1552181e-1f56-47b6-813f-f07163634152.jpg)
 
 
 Open a new PowerBI Desktop file and perform the tasks mentioned below. Save this file as yourPRN_MavenMarket.pbix file which should be submitted on Microsoft Teams: 
